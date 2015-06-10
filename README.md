@@ -69,3 +69,12 @@ However, there's no no convenient way for the public to explore and come to thei
 
 - __Nothing that surprising:__ One big criticism of this corpus of emails is that they're self-released. Not all that surprising that they're no shocking revelations. That said, maybe if we look at the pattern of emails, we can uncover something. For example, suppose we see a suspicious drop-off in email correspondence with key parties involved in the scandal at key times. That may be evidence of obfuscating evidence.
 
+## Post-mortem
+
+- __Downloading:__ Downloading the pdf files and text with meta data was actually not that bad.
+
+- __Too much web design:__  Yup, I spend most of my time figuring out how to make a web page that doesn't look terrible. Beacause of this, I'm not sure how much better this web page is than the one that exists on the State Dept Website.
+
+- __Nothing that surprising:__ Yup, nothing too surprising. Probably because I spent most of my time on web design and not on analysing the data!
+
+
